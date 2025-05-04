@@ -35,4 +35,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## License
 
-MIT © [Cuong Tran](https://github.com/103cuong)
+MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
