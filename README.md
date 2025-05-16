@@ -38,6 +38,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🐯
+Be a lifelong learner, not a know-it-all.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
