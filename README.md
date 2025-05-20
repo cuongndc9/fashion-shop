@@ -38,6 +38,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🦖
+The best way to predict the future is to create it.
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
