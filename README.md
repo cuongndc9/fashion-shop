@@ -38,6 +38,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🐯
+Discomfort is the currency of your dreams.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
